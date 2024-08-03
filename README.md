@@ -1,1 +1,1 @@
-# MediTrack
+# MediTrack - Hospital Management System
